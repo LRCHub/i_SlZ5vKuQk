@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Nice Guy",
+  "base_artist": "BOYNEXTDOOR",
+  "createdAt": "2026-02-28T03:31:22.639996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nice Guy (with Jessie Reyez)",
+      "artist": "Eminem feat. Jessie Reyez",
+      "has_synced": true,
+      "path": "select/01_Nice_Guy_(with_Jessie_Reyez)_Eminem_feat._Jessie_Reyez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nice Guy",
+      "artist": "Eminem, Jessie Reyez",
+      "has_synced": true,
+      "path": "select/02_Nice_Guy_Eminem,_Jessie_Reyez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nice Guy Eddie",
+      "artist": "Sleeper",
+      "has_synced": true,
+      "path": "select/03_Nice_Guy_Eddie_Sleeper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Ain't No Nice Guy",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/04_I_Ain't_No_Nice_Guy_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Ain't No Nice Guy",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/05_I_Ain't_No_Nice_Guy_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No More Mr. Nice Guy",
+      "artist": "Megadeth",
+      "has_synced": false,
+      "path": "select/06_No_More_Mr._Nice_Guy_Megadeth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No More Mr. Nice Guy",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/07_No_More_Mr._Nice_Guy_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No More Mr. Nice Guy",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/08_No_More_Mr._Nice_Guy_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No More Mr Nice Guy",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/09_No_More_Mr_Nice_Guy_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No More Mr. Nice Guy (Re-Recorded)",
+      "artist": "Alice Cooper",
+      "has_synced": false,
+      "path": "select/10_No_More_Mr._Nice_Guy_(Re-Recorded)_Alice_Cooper.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No More Mr. Nice Guy [Album Version]",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/11_No_More_Mr._Nice_Guy_[Album_Version]_Alice_Cooper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nice Guy",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_Nice_Guy_BOYNEXTDOOR.txt"
+    }
+  ]
+}
